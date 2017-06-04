@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.navigation {
+  background-color: black;
+  margin: 10;
+  padding: 5px;
+  text-align: center;
+}
+
+.navigation ul {
+  margin: 0;
+
+}
+
+.navigation li{
+   display: inline-block;
+   margin: 20px;
+   padding: 10px 20px;
+}
+
+.navigation a{
+  color: white;
+  text-decoration: none;
+
+}
